@@ -17,3 +17,4 @@ y_pred = model.predict(X)
 print((y == y_pred).sum())
 print((y == y_pred).sum() / y.shape[0])
 print(model.score(X, y))
+#hello_world
